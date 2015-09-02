@@ -3,7 +3,7 @@ import time
 
 
 print '[+]---Netflix Account Checker v0.1---[+]'
-print '--------------By Ramonem----------------'
+
 time.sleep(2)
 contex=0
 contno=0
